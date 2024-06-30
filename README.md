@@ -1,8 +1,9 @@
-👋 Hi, I’m daeshon jones and i am an information security research professional.
+Daeshon Jones is a well seasoned and highly distinguished information security research professional. He has acquired 10 years of in-depth offensive security experience through hard work and self-education.
 
-You can learn more about me, my blog, projects, publications, products and services on my [website](https://daeshondjones.com/).
+Boasting an impressive catalog of skills from but not limited to software/hardware reverse engineering, computer software exploitation development, source code analysis, open source intelligence and much more.
 
-<!---
-daeshondjones/daeshondjones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Daeshon is very passionate about innovation, exploration, collaboration and analysis within the information security community. Excellence is at the forefront of everything Daeshon does. Daeshon is both excited and embraces any current or future challenges that the information security research field may hold.
+
+For business inquiries, research collaboration requests or media invitations. You can contact Daeshon via email or direct message him on social media.
+
+You can learn more about Daeshon, his blog, projects, publications, products and services on his [website](https://daeshondjones.com/).
